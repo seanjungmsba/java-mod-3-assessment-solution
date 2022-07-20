@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Project2WithTests" />
+        <module name="java-mod-3-assessment-solution" />
       </profile>
     </annotationProcessing>
   </component>
